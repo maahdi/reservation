@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<categories>
+  <categorie name="Catégorie 1">
+    <places>12</places>
+    <tarif>22</tarif>
+  </categorie>
+  <categorie name="Catégorie 2">
+    <places>10</places>
+    <tarif>33</tarif>
+  </categorie>
+  <categorie name="Catégorie 3">
+    <places>8</places>
+    <tarif>45</tarif>
+  </categorie>
+</categories>

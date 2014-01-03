@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<remises>
+  <remise name="d1">
+    <duree premier="1" dernier="7"></duree>
+    <pourcentage>0</pourcentage>
+  </remise>
+  <remise name="d2">
+    <duree premier="8" dernier="14"></duree>
+    <pourcentage>5</pourcentage>
+  </remise>
+  <remise name="d3">
+    <duree premier="15" dernier="99"></duree>
+    <pourcentage>10</pourcentage>
+  </remise>
+</remises>

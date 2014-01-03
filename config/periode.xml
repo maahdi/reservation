@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<racine>
+  <periode name="Periode 1">
+    <date entree ="01/11" sortie="30/04"></date>
+    <tarif>10</tarif>
+  </periode>
+  <periode name="Periode 2">
+    <date entree="01/05" sortie="15/06"></date>
+    <date entree="01/09" sortie="31/10"></date>
+    <tarif>15</tarif>
+  </periode>
+  <periode name="Periode 3">
+    <date entree="16/06" sortie="31/08"></date>
+    <tarif>25</tarif>
+  </periode>
+</racine>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<emplacements>
+  <emplacement categorie="Catégorie 2" numero="110">
+    <type>Bungalo</type>
+    <piece>10</piece>
+    <toto type="Decimal">888</toto>
+  </emplacement>
+  <emplacement categorie="Catégorie 1" numero="117">
+    <type>Caravane</type>
+    <piece>2</piece>
+  </emplacement>
+  <emplacement categorie="Catégorie 3" numero="201">
+    <type>Maisonnette</type>
+    <piece>6</piece>
+  </emplacement>
+</emplacements>
